@@ -1,3 +1,8 @@
+### Program
+The program is like google search it has some functionalities of google search. For example, you can search something from this google-clone the interface of this program is similar to google. In this program, I am using google API for storing information. 
+
+### Author 
+Nazirov Ilhomjon <naziroffjr@gmail.com>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
