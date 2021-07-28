@@ -7,7 +7,7 @@ Google Clone создан на React JS для учебных целей.
 [Demo Link](https://njrclone.web.app/)
 
 
-![Image of Website](https://github.com/walissoncom/google-clone/blob/master/google-demo.gif)
+![Image of Website](https://github.com/NazirovJr/google-clone/blob/main/google-demo.gif)
 
 # Используемая технология
 
